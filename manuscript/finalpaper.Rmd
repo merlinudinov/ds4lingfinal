@@ -47,7 +47,7 @@ knitr::opts_chunk$set(cache.extra = knitr::rand_seed)
 #| warning: False
 #| message: False
 library("here")
-source(here("scripts", "script.R"))
+source(here("r_code", "script.R"))
 ```
 
 # Small Background
