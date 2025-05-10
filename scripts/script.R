@@ -16,7 +16,7 @@ cbPalette10 <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442",
                  "#0072B2", "#D55E00", "#CC79A7", "#E23000", "#A48032")
 
 # data loading
-data <- read.csv(here("data", "fourvowels.csv"))
+data <- read.csv(here("data", "cleaneddata.csv"))
 head(data)
 
 # remapping tags for vowels
