@@ -1,5 +1,5 @@
 ---
-title: "Vowel Realisation Affected by Bilingualism"
+title: "Vowel Frame Difference between Mono- and Bilingual Speakers"
 author: "Merlin Balihaxi"
 institute: "Data Science for Linguists Final"
 date: "2025/05/04 (updated: `r Sys.Date()`)"
